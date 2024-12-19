@@ -70011,12 +70011,12 @@ A.IQ.prototype={
 cs(a,b,c){var s=this.a
 if(c?J.iA(s,b):J.lQ(s,b))this.am()}}
 A.mg.prototype={
-a7Z(){var s=A.ax0().a5("assets/98alliance.apk").k(0),r=document.createElement("a")
+a7Z(){var s=A.ax0().a5("assets/assets/98alliance.apk").k(0),r=document.createElement("a")
 r.href=s
 r.target="download"
 r.click()},
-M(a){var s="Download APK",r=null
-return A.aln(A.aiF(!1,A.dV(s,r,r,r,r,r,r)),A.m2(A.De(A.b([A.dV('Welcome! Click the button below to download the "98 Alliance" APK.',r,r,r,A.hv(r,r,r,r,r,r,r,r,r,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.ee,r),A.dV("Last Modified: 19 Dec 2024.",r,r,r,A.hv(r,r,r,r,r,r,r,r,r,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.ee,r),A.hp(r,16,r),A.ata(A.ag6(B.Bs,r),A.dV(s,r,r,r,r,r,r),this.ga7Y())],t.E),B.bp,B.fn,B.iz),r,r))}}
+M(a){var s=null
+return A.aln(A.aiF(!1,A.dV("Download APK",s,s,s,s,s,s)),A.m2(A.De(A.b([A.dV('Welcome! Click the button below to download the "98 Alliance" APK.',s,s,s,A.hv(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.ee,s),A.dV("Last Modified: 19 Dec 2024.",s,s,s,A.hv(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.ee,s),A.hp(s,16,s),A.ata(A.ag6(B.Bs,s),A.dV('Download "98 Alliance" APK',s,s,s,s,s,s),this.ga7Y())],t.E),B.bp,B.fn,B.iz),s,s))}}
 A.mT.prototype={
 ai(){var s=$.ak()
 return new A.zm(new A.xI(B.jk,s),new A.xI(B.jk,s))}}
